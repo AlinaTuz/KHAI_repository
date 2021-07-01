@@ -1,5 +1,5 @@
 /*
-@file Sor.cpp
+@file Sor.c
 @author Туз А.В., гр. 515в
 @data 26.06.2021
 @brief Навчальна практика
